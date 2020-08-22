@@ -9,7 +9,7 @@ Algoritmo paqueteria
 	Mostrar "ingrese el peso del paquete a enviar"
 	Leer peso
 	Si peso > 0 & peso <= 5 Entonces
-		Mostrar "ingrese zona de envío"
+		Mostrar "ingrese zona de envÃ­o"
 		Leer zona 
 		Segun zona Hacer
 			1:
@@ -25,5 +25,6 @@ Algoritmo paqueteria
 		Mostrar " No se puede enviar un paquete con este peso indicado"
 	Fin Si
 	
-	Mostrar "El costo final de envío segun zona y peso es" precio_final
+	Mostrar "El costo final de envÃ­o segun zona y peso es" precio_final
 FinAlgoritmo
+//comenzamos hacer cambios y comitear//
