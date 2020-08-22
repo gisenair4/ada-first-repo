@@ -2,7 +2,7 @@
 Primer proyecto git en ada
 
 
-** Dos asteriscos**
+## Dos  hastagh ##
 Texto descriptivo de dos asteriscos
 
 ***Tres asteriscos***
