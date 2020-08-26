@@ -11,3 +11,4 @@ Descripción de funciones del proyecto
 -Tipo 1
 -Tipo 2 
 -Tipo 3 
+Practico con readme
