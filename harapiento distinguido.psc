@@ -17,3 +17,4 @@ Algoritmo harapiento_distinguido
 	Fin Si
 	
 FinAlgoritmo
+Hola soy Celes!
